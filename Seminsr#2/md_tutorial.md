@@ -15,3 +15,13 @@
 
 Пример:
 ![альтернативнй текст](https://mota.ru/upload/wallpapers/2021/10/15/09/53/75832/forest-river-usa-grass-california-clouds-nature-sky-yosemite-national-park.jpg)
+
+Чтобы добавить картинку-ссылку, необходимо модифицировать блок-схему выше следующим образом:
+
+```
+[![альтернативный текст](ссылка на само изображение)](ссылка на которую действительно перейдем кликнув по изображению)
+```
+
+Пример:
+[![приколюха](https://stepfor.top/wp-content/uploads/2014/11/pressme.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
