@@ -8,3 +8,10 @@
 
 ## Как добавить изображения
 
+**Чтобы добавить изображения в разметку MarkDown, используйте следующую конструкцию:**
+```
+![альтернативный текст](ссылка на изображение)
+```
+
+Пример:
+![альтернативнй текст](https://mota.ru/upload/wallpapers/2021/10/15/09/53/75832/forest-river-usa-grass-california-clouds-nature-sky-yosemite-national-park.jpg)
