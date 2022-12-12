@@ -56,6 +56,7 @@ Content Cell | Content Cell
 </br>
 Можно управлять выравниванием столбцов при помощи
 двоеточия.
+
 ```
 | Left-Aligned | Center Aligned | Right Aligned |
 |:------------- |:---------------:| -------------:|
